@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5330634e-026c-4b9f-bc48-d2d6b294b242" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mvFcAAw1PwZ2MeHaRqt1fvszKo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react/js/stores" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\TTW\Professur_ohneSeafile\Code\WiSe2021\5_Login_Projekt\react\js\stores" />
+      <recent name="C:\TTW\Professur_ohneSeafile\Code\WiSe2021\5_Login_Projekt\server\models" />
+      <recent name="C:\TTW\Professur_ohneSeafile\Code\WiSe2021\5_Login_Projekt\server\routes" />
+      <recent name="C:\TTW\Professur_ohneSeafile\Code\WiSe2021\5_Login_Projekt\react\js\components" />
+      <recent name="C:\TTW\Professur_ohneSeafile\Code\WiSe2021\5_Login_Projekt\react" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\TTW\Professur_ohneSeafile\Code\WiSe2021\5_Login_Projekt\react\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.React">
+    <configuration name="React" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:react" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Node Server " type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:node" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.React" />
+      <item itemvalue="npm.Start Node Server " />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5330634e-026c-4b9f-bc48-d2d6b294b242" name="Default Changelist" comment="" />
+      <created>1610366234959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610366234959</updated>
+      <workItem from="1610366236286" duration="2473000" />
+      <workItem from="1610377609528" duration="4876000" />
+      <workItem from="1610520315647" duration="91000" />
+      <workItem from="1610960333350" duration="13316000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1533" y="368" key="#React" timestamp="1610367690614">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1533" y="368" key="#React/0.0.2560.1040@0.0.2560.1040" timestamp="1610367690614" />
+    <state x="1176" y="323" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610367709054">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1176" y="323" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1610367709054" />
+    <state width="2106" height="419" key="GridCell.Tab.0.bottom" timestamp="1610972354979">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2106" height="419" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1610972354979" />
+    <state width="2106" height="419" key="GridCell.Tab.0.center" timestamp="1610972354979">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2106" height="419" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1610972354979" />
+    <state width="2106" height="419" key="GridCell.Tab.0.left" timestamp="1610972354979">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2106" height="419" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1610972354979" />
+    <state width="2106" height="419" key="GridCell.Tab.0.right" timestamp="1610972354979">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2106" height="419" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1610972354979" />
+    <state x="1355" y="273" width="585" height="534" key="find.popup" timestamp="1610971891551">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1355" y="273" width="585" height="534" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1610971891551" />
+  </component>
+</project>

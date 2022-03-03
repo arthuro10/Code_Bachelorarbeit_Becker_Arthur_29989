@@ -1,0 +1,25 @@
+query {getProcess {id processId processData created_at processInk  }}
+
+
+// Query zum lesen (GET Request)
+query {readProcess(id: 1) {id processData created_at} }
+
+// Query zum lesen aller Prozesse
+query {readAllProcesses {id processData created_at processId processInk}}
+
+// Mutation Create
+mutation {createProcess(prozess: {id : "asdasd" processData : {a : "a"}  created_at : "asd" processId : "adasas" processInkrement : {b:"b"}}) {id processData created_at processId processInkrement}}
+
+mutation {createProcess(prozess: {id : "7" processData : { a : "a"}  created_at : "2021-07-02 17:59:53" processId : "adasas" processInkrement : {b : "b"}}) {id processData created_at processId processInkrement}}
+
+
+// Mutation delete
+mutation {deleteProcess(id : 10) {id processData created_at processId processInk}}
+
+mutation {deleteProcess(id : 7) {id processData created_at processId processInkrement}}
+
+mutation {deleteProcess(id : 7) }
+
+// Mutation Update
+mutation {updateProcess(prozess: {id : 3 processData : {a : "a"}  created_at : "asd" processId : "adasas" processInkrement : {b:"b"}}) {id processData created_at processId processInkrement}}
+

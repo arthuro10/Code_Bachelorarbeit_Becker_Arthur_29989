@@ -1,0 +1,93 @@
+
+.gallery-back-button {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+}
+
+.gallery-next-button {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+}
+
+.gallery-next-button, .gallery-back-button {
+  background: transparent !important;
+  border: 0;
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+  background-color: transparent;
+}
+
+.inputfile {
+  display: none;
+}
+
+.upload-button {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.selected-image {
+  border: 2px solid #4caf50 !important;
+}
+
+.unselected-image {
+  border: 2px solid gray !important;
+}
+
+.selected-image, .unselected-image {
+  margin: 5px !important;
+  border-radius: 4px;
+}
+
+.selected-label {
+  background: #4caf50;
+}
+
+.unselected-label {
+  background: gray;
+}
+
+.selected-label, .unselected-label {
+  position: absolute;
+  top: 5px;
+  right: 6px;
+  color: white;
+  padding: 15px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+
+  &:before {
+    position: absolute !important;
+    top: 6px !important;
+    right: 7px !important;
+  }
+}
+
+.dots-container {
+  text-align: center;
+  z-index: 2;
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  > button {
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    background: transparent;
+    border-radius: 7.5px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 8px 5px rgba(202, 195, 188, 0.5);
+
+    &:disabled {
+      background: whitesmoke;
+    }
+  }
+}

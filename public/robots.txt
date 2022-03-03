@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin-login
+Disallow: /blog-author-overview
+Disallow: /blog-management
